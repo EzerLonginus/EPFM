@@ -1,5 +1,6 @@
 node_modules/
 
+
 # Ignore list for KiCAD Projects
 # Temporary files
 *.000
@@ -9,6 +10,7 @@ node_modules/
 *.sch-bak
 *~
 _autosave-*
+*-backups/
 *.tmp
 *-save.pro
 *-save.kicad_pcb
