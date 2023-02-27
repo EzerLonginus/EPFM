@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "PassiveTonalControl")(type "KiCad")(uri "C:/Users/arima/Documents/Git/EPFM/PASS_TONE_CTRL/Hardware/PassiveTonalControl.pretty")(options "")(descr ""))
+)
