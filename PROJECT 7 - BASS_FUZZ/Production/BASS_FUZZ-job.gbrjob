@@ -5,12 +5,12 @@
       "Application": "Pcbnew",
       "Version": "(6.0.7)"
     },
-    "CreationDate": "2023-03-07T14:28:06-05:00"
+    "CreationDate": "2023-03-07T14:40:38-05:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
-      "Name": "ULTRA_FUZZ",
-      "GUID": "554c5452-415f-4465-955a-5a2e6b696361",
+      "Name": "BASS_FUZZ",
+      "GUID": "42415353-5f46-4555-9a5a-2e6b69636164",
       "Revision": "rev?"
     },
     "Size": {
@@ -34,47 +34,47 @@
   ],
   "FilesAttributes": [
     {
-      "Path": "ULTRA_FUZZ-F_Cu.gbr",
+      "Path": "BASS_FUZZ-F_Cu.gbr",
       "FileFunction": "Copper,L1,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "ULTRA_FUZZ-B_Cu.gbr",
+      "Path": "BASS_FUZZ-B_Cu.gbr",
       "FileFunction": "Copper,L2,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "ULTRA_FUZZ-F_Paste.gbr",
+      "Path": "BASS_FUZZ-F_Paste.gbr",
       "FileFunction": "SolderPaste,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "ULTRA_FUZZ-B_Paste.gbr",
+      "Path": "BASS_FUZZ-B_Paste.gbr",
       "FileFunction": "SolderPaste,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "ULTRA_FUZZ-F_Silkscreen.gbr",
+      "Path": "BASS_FUZZ-F_Silkscreen.gbr",
       "FileFunction": "Legend,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "ULTRA_FUZZ-B_Silkscreen.gbr",
+      "Path": "BASS_FUZZ-B_Silkscreen.gbr",
       "FileFunction": "Legend,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "ULTRA_FUZZ-F_Mask.gbr",
+      "Path": "BASS_FUZZ-F_Mask.gbr",
       "FileFunction": "SolderMask,Top",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "ULTRA_FUZZ-B_Mask.gbr",
+      "Path": "BASS_FUZZ-B_Mask.gbr",
       "FileFunction": "SolderMask,Bot",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "ULTRA_FUZZ-Edge_Cuts.gbr",
+      "Path": "BASS_FUZZ-Edge_Cuts.gbr",
       "FileFunction": "Profile",
       "FilePolarity": "Positive"
     }
